@@ -24,8 +24,10 @@ OctoAcme follows a structured, customer-focused approach to project management:
 - **Project Manager (PM)**: Coordinates delivery, schedules, risk, and communications
 - **Product Manager (PdM)**: Defines outcomes, prioritizes backlog, and measures success
 - **Developers**: Implement features, collaborate on design and testability
+- **Scrum Master**: Facilitates agile ceremonies, removes impediments, and coaches on agile practices
+- **UX Designer**: Conducts user research, creates designs, and validates usability
 - **QA/Testing**: Validate quality and acceptance criteria
-- **Stakeholders**: Provide inputs and approvals
+- **External Stakeholders**: Provide inputs, approvals, and ensure organizational alignment
 
 ### Key Artifacts
 - Project Charter / One-pager
@@ -67,14 +69,34 @@ Standardized release process to reduce risk and improve observability. Covers re
 Capture learnings and convert them into actionable improvements. Learn how to run effective retrospectives and track improvements.
 
 ### 👥 [Roles & Personas](octoacme-roles-and-personas.md)
-Detailed descriptions of typical roles and responsibilities including Developers, Product Managers, and Project Managers.
+Detailed descriptions of typical roles and responsibilities including Developers, Product Managers, Project Managers, Scrum Masters, UX Designers, External Stakeholders, and QA/Testing. Each role includes interaction patterns and project lifecycle involvement.
+
+### ✅ [Role Alignment Checklist](octoacme-role-alignment-checklist.md)
+Comprehensive checklist to ensure all team members understand their roles, responsibilities, and interactions. Reduces confusion and single-person dependency risks.
+
+### 📞 [Communication Matrix](octoacme-communication-matrix.md)
+Detailed communication patterns, meeting cadences, and channels for all project roles. Includes templates and best practices for effective team communication.
+
+### 🔺 [Escalation Procedures](octoacme-escalation-procedures.md)
+Clear escalation paths and procedures for blockers, risks, and issues. Defines when and how to escalate at each level to ensure rapid resolution.
 
 ## Getting Started
 
 1. **New to OctoAcme?** Start with the [Project Management Overview](octoacme-project-management-overview.md) to understand our approach
 2. **Starting a new project?** Follow the [Project Initiation Guide](octoacme-project-initiation.md) to set up your project
-3. **Executing a project?** Reference [Execution & Tracking](octoacme-execution-and-tracking.md) for day-to-day guidance
-4. **Unsure about your role?** Check [Roles & Personas](octoacme-roles-and-personas.md) for clarity on responsibilities
+3. **Unsure about roles?** Review the [Role Alignment Checklist](octoacme-role-alignment-checklist.md) and [Roles & Personas](octoacme-roles-and-personas.md)
+4. **Executing a project?** Reference [Execution & Tracking](octoacme-execution-and-tracking.md) for day-to-day guidance
+5. **Need to communicate or escalate?** Use the [Communication Matrix](octoacme-communication-matrix.md) and [Escalation Procedures](octoacme-escalation-procedures.md)
+
+## Process Improvement Tools
+
+To address common challenges and reduce single-person dependencies, leverage these tools:
+
+- **[Role Alignment Checklist](octoacme-role-alignment-checklist.md)**: Use at project kickoff and when new members join to ensure everyone understands their responsibilities and interactions
+- **[Communication Matrix](octoacme-communication-matrix.md)**: Establish clear communication cadences and channels to prevent information silos
+- **[Escalation Procedures](octoacme-escalation-procedures.md)**: Know when and how to escalate blockers efficiently to keep projects moving
+
+These tools improve onboarding, clarify accountability, and create more resilient teams.
 
 ## Using These Docs with Copilot Spaces
 
